@@ -129,3 +129,15 @@ export const allSkills: CardCollection[] = [
     ],
   },
 ];
+
+export const allProjects: CardCollection[] = [
+  {
+    collectionName: "Full-stack javascript",
+    cards: [
+      {
+        title: "Cybervolunteers v1",
+        desc: "A website that connects charities and volunteers. I worked on all of the backend and JQuery code.",
+      },
+    ],
+  },
+];

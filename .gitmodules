@@ -1,0 +1,3 @@
+[submodule "public/p5js"]
+	path = public/p5js
+	url = https://github.com/micnekr/p5js
